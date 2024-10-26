@@ -1,0 +1,118 @@
+{
+  "clubs": [
+    {
+      "id": "1",
+      "name": "Arsenal",
+      "code": "AR",
+      "image": "https://example.com/arsenal-logo.png"
+    },
+    {
+      "id": "2",
+      "name": "Aston Villa",
+      "code": "AV",
+      "image": "https://example.com/aston-villa-logo.png"
+    },
+    {
+      "id": "3",
+      "name": "Bournemouth",
+      "code": "BO",
+      "image": "https://example.com/bournemouth-logo.png"
+    },
+    {
+      "id": "4",
+      "name": "Brentford",
+      "code": "BR",
+      "image": "https://example.com/brentford-logo.png"
+    },
+    {
+      "id": "5",
+      "name": "Brighton & Hove Albion",
+      "code": "BH",
+      "image": "https://example.com/brighton-logo.png"
+    },
+    {
+      "id": "6",
+      "name": "Chelsea",
+      "code": "CH",
+      "image": "https://example.com/chelsea-logo.png"
+    },
+    {
+      "id": "7",
+      "name": "Crystal Palace",
+      "code": "CP",
+      "image": "https://example.com/crystal-palace-logo.png"
+    },
+    {
+      "id": "8",
+      "name": "Everton",
+      "code": "EV",
+      "image": "https://example.com/everton-logo.png"
+    },
+    {
+      "id": "9",
+      "name": "Fulham",
+      "code": "FU",
+      "image": "https://example.com/fulham-logo.png"
+    },
+    {
+      "id": "10",
+      "name": "Liverpool",
+      "code": "LI",
+      "image": "https://example.com/liverpool-logo.png"
+    },
+    {
+      "id": "11",
+      "name": "Luton Town",
+      "code": "LU",
+      "image": "https://example.com/luton-town-logo.png"
+    },
+    {
+      "id": "12",
+      "name": "Manchester City",
+      "code": "MC",
+      "image": "https://example.com/manchester-city-logo.png"
+    },
+    {
+      "id": "13",
+      "name": "Manchester United",
+      "code": "MU",
+      "image": "https://example.com/manchester-united-logo.png"
+    },
+    {
+      "id": "14",
+      "name": "Newcastle United",
+      "code": "NU",
+      "image": "https://example.com/newcastle-united-logo.png"
+    },
+    {
+      "id": "15",
+      "name": "Nottingham Forest",
+      "code": "NF",
+      "image": "https://example.com/nottingham-forest-logo.png"
+    },
+    {
+      "id": "16",
+      "name": "Sheffield United",
+      "code": "SU",
+      "image": "https://example.com/sheffield-united-logo.png"
+    },
+    {
+      "id": "17",
+      "name": "Tottenham Hotspur",
+      "code": "TH",
+      "image": "https://example.com/tottenham-logo.png"
+    },
+    {
+      "id": "18",
+      "name": "West Ham United",
+      "code": "WH",
+      "image": "https://example.com/west-ham-logo.png"
+    },
+    {
+      "id": "19",
+      "name": "Wolverhampton Wanderers",
+      "code": "WO",
+      "image": "https://example.com/wolverhampton-logo.png"
+    }
+  ]
+}

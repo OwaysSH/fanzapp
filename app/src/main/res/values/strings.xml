@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Fanz-OWays</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="draft_players">Draft Players</string>
+    <string name="player_number">#%s</string>
+</resources>

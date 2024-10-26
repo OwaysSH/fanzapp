@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FF973EFF</color>
+    <color name="colorPrimaryDark">#2C1349</color>
+    <color name="colorAccent">#FFFFB700</color>
+    <color name="textColorPrimary">#FFBFB6EB</color>
+    <color name="textColorSecondary">@color/colorAccent</color>
+    <color name="textColorDark">#FF18092A</color>
+    <color name="textColorWhite">#FFFFFF</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="app_bg">@color/colorPrimaryDark</color>
+    <color name="separator_color">#FF917EA7</color>
+    <color name="transparent">#00ffffff</color>
+
+    <color name="bottom_sheet_color">#451E71</color>
+    <color name="green">#FF31BD60</color>
+    <color name="search_bg">#24973EFF</color>
+
+</resources>

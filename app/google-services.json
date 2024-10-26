@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "88233245971",
+    "firebase_url": "https://fanzapp-25830-default-rtdb.firebaseio.com",
+    "project_id": "fanzapp-25830",
+    "storage_bucket": "fanzapp-25830.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:88233245971:android:56fa6ac71f3689b30feee6",
+        "android_client_info": {
+          "package_name": "com.fanz.oways"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8nIVRwEaHiJM3chlcVIZVISZdVU5Mt7M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

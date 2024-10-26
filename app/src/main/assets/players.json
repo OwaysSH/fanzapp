@@ -1,0 +1,1894 @@
+{
+  "players": [
+    {
+      "name": "Mohamed Salah",
+      "position": "Forward",
+      "number": 11,
+      "nationality": "Egyptian",
+      "playerPicture": "https://example.com/mohamed-salah.png",
+      "cardType": "PREMIUM",
+      "price": "22M",
+      "club_code": "LIV"
+    },
+    {
+      "name": "Virgil van Dijk",
+      "position": "Defender",
+      "number": 4,
+      "nationality": "Dutch",
+      "playerPicture": "https://example.com/virgil-van-dijk.png",
+      "cardType": "PREMIUM",
+      "price": "20M",
+      "club_code": "LIV"
+    },
+    {
+      "name": "Alisson Becker",
+      "position": "Goalkeeper",
+      "number": 1,
+      "nationality": "Brazilian",
+      "playerPicture": "https://example.com/alisson-becker.png",
+      "cardType": "PREMIUM",
+      "price": "25M",
+      "club_code": "LIV"
+    },
+    {
+      "name": "Trent Alexander-Arnold",
+      "position": "Defender",
+      "number": 66,
+      "nationality": "English",
+      "playerPicture": "https://example.com/trent-alexander-arnold.png",
+      "cardType": "PREMIUM",
+      "price": "15M",
+      "club_code": "LIV"
+    },
+    {
+      "name": "Darwin Núñez",
+      "position": "Forward",
+      "number": 9,
+      "nationality": "Uruguayan",
+      "playerPicture": "https://example.com/darwin-nunez.png",
+      "cardType": "PREMIUM",
+      "price": "18M",
+      "club_code": "LIV"
+    },
+    {
+      "name": "Luis Díaz",
+      "position": "Forward",
+      "number": 7,
+      "nationality": "Colombian",
+      "playerPicture": "https://example.com/luis-diaz.png",
+      "cardType": "PREMIUM",
+      "price": "17M",
+      "club_code": "LIV"
+    },
+    {
+      "name": "Alexis Mac Allister",
+      "position": "Midfielder",
+      "number": 10,
+      "nationality": "Argentinian",
+      "playerPicture": "https://example.com/alexis-mac-allister.png",
+      "cardType": "PREMIUM",
+      "price": "19M",
+      "club_code": "LIV"
+    },
+    {
+      "name": "Dominik Szoboszlai",
+      "position": "Midfielder",
+      "number": 8,
+      "nationality": "Hungarian",
+      "playerPicture": "https://example.com/dominik-szoboszlai.png",
+      "cardType": "PREMIUM",
+      "price": "21M",
+      "club_code": "LIV"
+    },
+    {
+      "name": "Ibrahima Konaté",
+      "position": "Defender",
+      "number": 5,
+      "nationality": "French",
+      "playerPicture": "https://example.com/ibrahima-konate.png",
+      "cardType": "PREMIUM",
+      "price": "14M",
+      "club_code": "LIV"
+    },
+    {
+      "name": "Andy Robertson",
+      "position": "Defender",
+      "number": 26,
+      "nationality": "Scottish",
+      "playerPicture": "https://example.com/andy-robertson.png",
+      "cardType": "PREMIUM",
+      "price": "16M",
+      "club_code": "LIV"
+    },
+    {
+      "name": "Bukayo Saka",
+      "position": "Forward",
+      "number": 7,
+      "nationality": "English",
+      "playerPicture": "https://example.com/bukayo-saka.png",
+      "cardType": "FREE",
+      "price": "15M",
+      "club_code": "AR"
+    },
+    {
+      "name": "Martin Ødegaard",
+      "position": "Midfielder",
+      "number": 8,
+      "nationality": "Norwegian",
+      "playerPicture": "https://example.com/martin-odegaard.png",
+      "cardType": "PREMIUM",
+      "price": "20M",
+      "club_code": "AR"
+    },
+    {
+      "name": "Gabriel Jesus",
+      "position": "Forward",
+      "number": 9,
+      "nationality": "Brazilian",
+      "playerPicture": "https://example.com/gabriel-jesus.png",
+      "cardType": "PREMIUM",
+      "price": "18M",
+      "club_code": "AR"
+    },
+    {
+      "name": "Thomas Partey",
+      "position": "Midfielder",
+      "number": 5,
+      "nationality": "Ghanaian",
+      "playerPicture": "https://example.com/thomas-partey.png",
+      "cardType": "PREMIUM",
+      "price": "17M",
+      "club_code": "AR"
+    },
+    {
+      "name": "Aaron Ramsdale",
+      "position": "Goalkeeper",
+      "number": 1,
+      "nationality": "English",
+      "playerPicture": "https://example.com/aaron-ramsdale.png",
+      "cardType": "PREMIUM",
+      "price": "14M",
+      "club_code": "AR"
+    },
+    {
+      "name": "Kieran Tierney",
+      "position": "Defender",
+      "number": 3,
+      "nationality": "Scottish",
+      "playerPicture": "https://example.com/kieran-tierney.png",
+      "cardType": "PREMIUM",
+      "price": "13M",
+      "club_code": "AR"
+    },
+    {
+      "name": "Ben White",
+      "position": "Defender",
+      "number": 4,
+      "nationality": "English",
+      "playerPicture": "https://example.com/ben-white.png",
+      "cardType": "PREMIUM",
+      "price": "16M",
+      "club_code": "AR"
+    },
+    {
+      "name": "Gabriel Magalhães",
+      "position": "Defender",
+      "number": 6,
+      "nationality": "Brazilian",
+      "playerPicture": "https://example.com/gabriel-magalhaes.png",
+      "cardType": "PREMIUM",
+      "price": "15M",
+      "club_code": "AR"
+    },
+    {
+      "name": "Leandro Trossard",
+      "position": "Forward",
+      "number": 19,
+      "nationality": "Belgian",
+      "playerPicture": "https://example.com/leandro-trossard.png",
+      "cardType": "PREMIUM",
+      "price": "12M",
+      "club_code": "AR"
+    },
+    {
+      "name": "Declan Rice",
+      "position": "Midfielder",
+      "number": 41,
+      "nationality": "English",
+      "playerPicture": "https://example.com/declan-rice.png",
+      "cardType": "PREMIUM",
+      "price": "20M",
+      "club_code": "AR"
+    },
+    {
+      "name": "Ollie Watkins",
+      "position": "Forward",
+      "number": 11,
+      "nationality": "English",
+      "playerPicture": "https://example.com/ollie-watkins.png",
+      "cardType": "FREE",
+      "price": "16M",
+      "club_code": "AV"
+    },
+    {
+      "name": "John McGinn",
+      "position": "Midfielder",
+      "number": 7,
+      "nationality": "Scottish",
+      "playerPicture": "https://example.com/john-mcginn.png",
+      "cardType": "PREMIUM",
+      "price": "14M",
+      "club_code": "AV"
+    },
+    {
+      "name": "Douglas Luiz",
+      "position": "Midfielder",
+      "number": 6,
+      "nationality": "Brazilian",
+      "playerPicture": "https://example.com/douglas-luiz.png",
+      "cardType": "PREMIUM",
+      "price": "18M",
+      "club_code": "AV"
+    },
+    {
+      "name": "Leon Bailey",
+      "position": "Forward",
+      "number": 31,
+      "nationality": "Jamaican",
+      "playerPicture": "https://example.com/leon-bailey.png",
+      "cardType": "PREMIUM",
+      "price": "12M",
+      "club_code": "AV"
+    },
+    {
+      "name": "Emiliano Martínez",
+      "position": "Goalkeeper",
+      "number": 1,
+      "nationality": "Argentinian",
+      "playerPicture": "https://example.com/emiliano-martinez.png",
+      "cardType": "PREMIUM",
+      "price": "17M",
+      "club_code": "AV"
+    },
+    {
+      "name": "Tyrone Mings",
+      "position": "Defender",
+      "number": 5,
+      "nationality": "English",
+      "playerPicture": "https://example.com/tyrone-mings.png",
+      "cardType": "PREMIUM",
+      "price": "15M",
+      "club_code": "AV"
+    },
+    {
+      "name": "Lucas Digne",
+      "position": "Defender",
+      "number": 27,
+      "nationality": "French",
+      "playerPicture": "https://example.com/lucas-digne.png",
+      "cardType": "PREMIUM",
+      "price": "16M",
+      "club_code": "AV"
+    },
+    {
+      "name": "Matty Cash",
+      "position": "Defender",
+      "number": 2,
+      "nationality": "Polish",
+      "playerPicture": "https://example.com/matty-cash.png",
+      "cardType": "PREMIUM",
+      "price": "10M",
+      "club_code": "AV"
+    },
+    {
+      "name": "Cameron Archer",
+      "position": "Forward",
+      "number": 18,
+      "nationality": "English",
+      "playerPicture": "https://example.com/cameron-archer.png",
+      "cardType": "PREMIUM",
+      "price": "11M",
+      "club_code": "AV"
+    },
+    {
+      "name": "Boubacar Kamara",
+      "position": "Midfielder",
+      "number": 44,
+      "nationality": "French",
+      "playerPicture": "https://example.com/boubacar-kamara.png",
+      "cardType": "PREMIUM",
+      "price": "14M",
+      "club_code": "AV"
+    },
+    {
+      "name": "Dominic Solanke",
+      "position": "Forward",
+      "number": 9,
+      "nationality": "English",
+      "playerPicture": "https://example.com/dominic-solanke.png",
+      "cardType": "FREE",
+      "price": "13M",
+      "club_code": "BO"
+    },
+    {
+      "name": "Philip Billing",
+      "position": "Midfielder",
+      "number": 29,
+      "nationality": "Danish",
+      "playerPicture": "https://example.com/philip-billing.png",
+      "cardType": "PREMIUM",
+      "price": "11M",
+      "club_code": "BO"
+    },
+    {
+      "name": "Marcus Tavernier",
+      "position": "Midfielder",
+      "number": 20,
+      "nationality": "English",
+      "playerPicture": "https://example.com/marcus-tavernier.png",
+      "cardType": "PREMIUM",
+      "price": "9M",
+      "club_code": "BO"
+    },
+    {
+      "name": "Jefferson Lerma",
+      "position": "Midfielder",
+      "number": 8,
+      "nationality": "Colombian",
+      "playerPicture": "https://example.com/jefferson-lerma.png",
+      "cardType": "PREMIUM",
+      "price": "12M",
+      "club_code": "BO"
+    },
+    {
+      "name": "David Brooks",
+      "position": "Midfielder",
+      "number": 7,
+      "nationality": "Welsh",
+      "playerPicture": "https://example.com/david-brooks.png",
+      "cardType": "PREMIUM",
+      "price": "8M",
+      "club_code": "BO"
+    },
+    {
+      "name": "Kieffer Moore",
+      "position": "Forward",
+      "number": 13,
+      "nationality": "Welsh",
+      "playerPicture": "https://example.com/kieffer-moore.png",
+      "cardType": "PREMIUM",
+      "price": "10M",
+      "club_code": "BO"
+    },
+    {
+      "name": "Chris Mepham",
+      "position": "Defender",
+      "number": 5,
+      "nationality": "Welsh",
+      "playerPicture": "https://example.com/chris-mepham.png",
+      "cardType": "PREMIUM",
+      "price": "7M",
+      "club_code": "BO"
+    },
+    {
+      "name": "Mark Travers",
+      "position": "Goalkeeper",
+      "number": 1,
+      "nationality": "Irish",
+      "playerPicture": "https://example.com/mark-travers.png",
+      "cardType": "PREMIUM",
+      "price": "9M",
+      "club_code": "BO"
+    },
+    {
+      "name": "Carter Vickers",
+      "position": "Defender",
+      "number": 30,
+      "nationality": "Scottish",
+      "playerPicture": "https://example.com/carter-vickers.png",
+      "cardType": "PREMIUM",
+      "price": "10M",
+      "club_code": "BO"
+    },
+    {
+      "name": "Jack Stacey",
+      "position": "Defender",
+      "number": 21,
+      "nationality": "English",
+      "playerPicture": "https://example.com/jack-stacey.png",
+      "cardType": "PREMIUM",
+      "price": "8M",
+      "club_code": "BO"
+    },
+    {
+      "name": "Ivan Toney",
+      "position": "Forward",
+      "number": 17,
+      "nationality": "English",
+      "playerPicture": "https://example.com/ivan-toney.png",
+      "cardType": "FREE",
+      "price": "18M",
+      "club_code": "BR"
+    },
+    {
+      "name": "Bryan Mbeumo",
+      "position": "Forward",
+      "number": 19,
+      "nationality": "French",
+      "playerPicture": "https://example.com/bryan-mbeumo.png",
+      "cardType": "PREMIUM",
+      "price": "15M",
+      "club_code": "BR"
+    },
+    {
+      "name": "Christian Nørgaard",
+      "position": "Midfielder",
+      "number": 6,
+      "nationality": "Danish",
+      "playerPicture": "https://example.com/christian-norgaard.png",
+      "cardType": "PREMIUM",
+      "price": "14M",
+      "club_code": "BR"
+    },
+    {
+      "name": "Mathias Jensen",
+      "position": "Midfielder",
+      "number": 8,
+      "nationality": "Danish",
+      "playerPicture": "https://example.com/mathias-jensen.png",
+      "cardType": "PREMIUM",
+      "price": "10M",
+      "club_code": "BR"
+    },
+    {
+      "name": "Pontus Jansson",
+      "position": "Defender",
+      "number": 18,
+      "nationality": "Swedish",
+      "playerPicture": "https://example.com/pontus-jansson.png",
+      "cardType": "PREMIUM",
+      "price": "12M",
+      "club_code": "BR"
+    },
+    {
+      "name": "David Raya",
+      "position": "Goalkeeper",
+      "number": 1,
+      "nationality": "Spanish",
+      "playerPicture": "https://example.com/david-raya.png",
+      "cardType": "PREMIUM",
+      "price": "16M",
+      "club_code": "BR"
+    },
+    {
+      "name": "Sergi Canós",
+      "position": "Midfielder",
+      "number": 7,
+      "nationality": "Spanish",
+      "playerPicture": "https://example.com/sergi-canos.png",
+      "cardType": "PREMIUM",
+      "price": "11M",
+      "club_code": "BR"
+    },
+    {
+      "name": "Shandon Baptiste",
+      "position": "Midfielder",
+      "number": 27,
+      "nationality": "English",
+      "playerPicture": "https://example.com/shandon-baptiste.png",
+      "cardType": "PREMIUM",
+      "price": "9M",
+      "club_code": "BR"
+    },
+    {
+      "name": "Ethan Pinnock",
+      "position": "Defender",
+      "number": 5,
+      "nationality": "Jamaican",
+      "playerPicture": "https://example.com/ethan-pinnock.png",
+      "cardType": "PREMIUM",
+      "price": "8M",
+      "club_code": "BR"
+    },
+    {
+      "name": "Keane Lewis-Potter",
+      "position": "Forward",
+      "number": 10,
+      "nationality": "English",
+      "playerPicture": "https://example.com/keane-lewis-potter.png",
+      "cardType": "PREMIUM",
+      "price": "7M",
+      "club_code": "BR"
+    },
+    {
+      "name": "Danny Welbeck",
+      "position": "Forward",
+      "number": 18,
+      "nationality": "English",
+      "playerPicture": "https://example.com/danny-welbeck.png",
+      "cardType": "FREE",
+      "price": "13M",
+      "club_code": "BE"
+    },
+    {
+      "name": "Leandro Trossard",
+      "position": "Forward",
+      "number": 11,
+      "nationality": "Belgian",
+      "playerPicture": "https://example.com/leandro-trossard.png",
+      "cardType": "PREMIUM",
+      "price": "19M",
+      "club_code": "BE"
+    },
+    {
+      "name": "Pascal Groß",
+      "position": "Midfielder",
+      "number": 13,
+      "nationality": "German",
+      "playerPicture": "https://example.com/pascal-gross.png",
+      "cardType": "PREMIUM",
+      "price": "10M",
+      "club_code": "BE"
+    },
+    {
+      "name": "Alexis Mac Allister",
+      "position": "Midfielder",
+      "number": 10,
+      "nationality": "Argentinian",
+      "playerPicture": "https://example.com/alexis-mac-allister.png",
+      "cardType": "PREMIUM",
+      "price": "18M",
+      "club_code": "BE"
+    },
+    {
+      "name": "Solly March",
+      "position": "Midfielder",
+      "number": 20,
+      "nationality": "English",
+      "playerPicture": "https://example.com/solly-march.png",
+      "cardType": "PREMIUM",
+      "price": "14M",
+      "club_code": "BE"
+    },
+    {
+      "name": "Robert Sánchez",
+      "position": "Goalkeeper",
+      "number": 1,
+      "nationality": "Spanish",
+      "playerPicture": "https://example.com/robert-sanchez.png",
+      "cardType": "PREMIUM",
+      "price": "16M",
+      "club_code": "BE"
+    },
+    {
+      "name": "Lewis Dunk",
+      "position": "Defender",
+      "number": 5,
+      "nationality": "English",
+      "playerPicture": "https://example.com/lewis-dunk.png",
+      "cardType": "PREMIUM",
+      "price": "17M",
+      "club_code": "BE"
+    },
+    {
+      "name": "Joël Veltman",
+      "position": "Defender",
+      "number": 3,
+      "nationality": "Dutch",
+      "playerPicture": "https://example.com/joel-veltman.png",
+      "cardType": "PREMIUM",
+      "price": "15M",
+      "club_code": "BE"
+    },
+    {
+      "name": "Adam Webster",
+      "position": "Defender",
+      "number": 4,
+      "nationality": "English",
+      "playerPicture": "https://example.com/adam-webster.png",
+      "cardType": "PREMIUM",
+      "price": "14M",
+      "club_code": "BE"
+    },
+    {
+      "name": "Pervis Estupiñán",
+      "position": "Defender",
+      "number": 30,
+      "nationality": "Ecuadorian",
+      "playerPicture": "https://example.com/pervis-estupinan.png",
+      "cardType": "PREMIUM",
+      "price": "11M",
+      "club_code": "BE"
+    },
+    {
+      "name": "Ashley Barnes",
+      "position": "Forward",
+      "number": 10,
+      "nationality": "English",
+      "playerPicture": "https://example.com/ashley-barnes.png",
+      "cardType": "FREE",
+      "price": "10M",
+      "club_code": "BU"
+    },
+    {
+      "name": "Jay Rodriguez",
+      "position": "Forward",
+      "number": 19,
+      "nationality": "English",
+      "playerPicture": "https://example.com/jay-rodriguez.png",
+      "cardType": "PREMIUM",
+      "price": "12M",
+      "club_code": "BU"
+    },
+    {
+      "name": "Anass Zaroury",
+      "position": "Forward",
+      "number": 23,
+      "nationality": "Moroccan",
+      "playerPicture": "https://example.com/anass-zaroury.png",
+      "cardType": "PREMIUM",
+      "price": "9M",
+      "club_code": "BU"
+    },
+    {
+      "name": "Liam Brady",
+      "position": "Midfielder",
+      "number": 8,
+      "nationality": "Irish",
+      "playerPicture": "https://example.com/liam-brady.png",
+      "cardType": "PREMIUM",
+      "price": "7M",
+      "club_code": "BU"
+    },
+    {
+      "name": "Josh Brownhill",
+      "position": "Midfielder",
+      "number": 15,
+      "nationality": "English",
+      "playerPicture": "https://example.com/josh-brownhill.png",
+      "cardType": "PREMIUM",
+      "price": "11M",
+      "club_code": "BU"
+    },
+    {
+      "name": "Dwight McNeil",
+      "position": "Midfielder",
+      "number": 7,
+      "nationality": "English",
+      "playerPicture": "https://example.com/dwight-mcneil.png",
+      "cardType": "PREMIUM",
+      "price": "14M",
+      "club_code": "BU"
+    },
+    {
+      "name": "Charlie Taylor",
+      "position": "Defender",
+      "number": 3,
+      "nationality": "English",
+      "playerPicture": "https://example.com/charlie-taylor.png",
+      "cardType": "PREMIUM",
+      "price": "10M",
+      "club_code": "BU"
+    },
+    {
+      "name": "Nathan Redmond",
+      "position": "Forward",
+      "number": 11,
+      "nationality": "English",
+      "playerPicture": "https://example.com/nathan-redmond.png",
+      "cardType": "PREMIUM",
+      "price": "15M",
+      "club_code": "BU"
+    },
+    {
+      "name": "Ben Mee",
+      "position": "Defender",
+      "number": 6,
+      "nationality": "English",
+      "playerPicture": "https://example.com/ben-mee.png",
+      "cardType": "PREMIUM",
+      "price": "10M",
+      "club_code": "BU"
+    },
+    {
+      "name": "Nick Pope",
+      "position": "Goalkeeper",
+      "number": 1,
+      "nationality": "English",
+      "playerPicture": "https://example.com/nick-pope.png",
+      "cardType": "PREMIUM",
+      "price": "16M",
+      "club_code": "BU"
+    },
+    {
+      "name": "Raheem Sterling",
+      "position": "Forward",
+      "number": 10,
+      "nationality": "English",
+      "playerPicture": "https://example.com/raheem-sterling.png",
+      "cardType": "FREE",
+      "price": "18M",
+      "club_code": "CH"
+    },
+    {
+      "name": "Enzo Fernández",
+      "position": "Midfielder",
+      "number": 5,
+      "nationality": "Argentinian",
+      "playerPicture": "https://example.com/enzo-fernandez.png",
+      "cardType": "PREMIUM",
+      "price": "20M",
+      "club_code": "CH"
+    },
+    {
+      "name": "Nicolas Jackson",
+      "position": "Forward",
+      "number": 15,
+      "nationality": "Senegalese",
+      "playerPicture": "https://example.com/nicolas-jackson.png",
+      "cardType": "PREMIUM",
+      "price": "16M",
+      "club_code": "CH"
+    },
+    {
+      "name": "Conor Gallagher",
+      "position": "Midfielder",
+      "number": 23,
+      "nationality": "English",
+      "playerPicture": "https://example.com/conor-gallagher.png",
+      "cardType": "PREMIUM",
+      "price": "14M",
+      "club_code": "CH"
+    },
+    {
+      "name": "Ben Chilwell",
+      "position": "Defender",
+      "number": 21,
+      "nationality": "English",
+      "playerPicture": "https://example.com/ben-chilwell.png",
+      "cardType": "PREMIUM",
+      "price": "19M",
+      "club_code": "CH"
+    },
+    {
+      "name": "Thiago Silva",
+      "position": "Defender",
+      "number": 6,
+      "nationality": "Brazilian",
+      "playerPicture": "https://example.com/thiago-silva.png",
+      "cardType": "PREMIUM",
+      "price": "17M",
+      "club_code": "CH"
+    },
+    {
+      "name": "Malo Gusto",
+      "position": "Defender",
+      "number": 2,
+      "nationality": "French",
+      "playerPicture": "https://example.com/malo-gusto.png",
+      "cardType": "PREMIUM",
+      "price": "13M",
+      "club_code": "CH"
+    },
+    {
+      "name": "Noni Madueke",
+      "position": "Forward",
+      "number": 19,
+      "nationality": "English",
+      "playerPicture": "https://example.com/noni-madueke.png",
+      "cardType": "PREMIUM",
+      "price": "15M",
+      "club_code": "CH"
+    },
+    {
+      "name": "Reece James",
+      "position": "Defender",
+      "number": 24,
+      "nationality": "English",
+      "playerPicture": "https://example.com/reece-james.png",
+      "cardType": "PREMIUM",
+      "price": "20M",
+      "club_code": "CH"
+    },
+    {
+      "name": "Armando Broja",
+      "position": "Forward",
+      "number": 18,
+      "nationality": "Albanian",
+      "playerPicture": "https://example.com/armando-broja.png",
+      "cardType": "PREMIUM",
+      "price": "14M",
+      "club_code": "CH"
+    },
+    {
+      "name": "Wilfried Zaha",
+      "position": "Forward",
+      "number": 11,
+      "nationality": "Ivorian",
+      "playerPicture": "https://example.com/wilfried-zaha.png",
+      "cardType": "FREE",
+      "price": "19M",
+      "club_code": "CR"
+    },
+    {
+      "name": "Eberechi Eze",
+      "position": "Midfielder",
+      "number": 10,
+      "nationality": "English",
+      "playerPicture": "https://example.com/eberechi-eze.png",
+      "cardType": "PREMIUM",
+      "price": "16M",
+      "club_code": "CR"
+    },
+    {
+      "name": "Jordan Ayew",
+      "position": "Forward",
+      "number": 9,
+      "nationality": "Ghanaian",
+      "playerPicture": "https://example.com/jordan-ayew.png",
+      "cardType": "PREMIUM",
+      "price": "12M",
+      "club_code": "CR"
+    },
+    {
+      "name": "Marc Guéhi",
+      "position": "Defender",
+      "number": 6,
+      "nationality": "English",
+      "playerPicture": "https://example.com/marc-guehi.png",
+      "cardType": "PREMIUM",
+      "price": "15M",
+      "club_code": "CR"
+    },
+    {
+      "name": "Joël Ward",
+      "position": "Defender",
+      "number": 2,
+      "nationality": "English",
+      "playerPicture": "https://example.com/joel-ward.png",
+      "cardType": "PREMIUM",
+      "price": "10M",
+      "club_code": "CR"
+    },
+    {
+      "name": "Vicente Guaita",
+      "position": "Goalkeeper",
+      "number": 31,
+      "nationality": "Spanish",
+      "playerPicture": "https://example.com/vicente-guaita.png",
+      "cardType": "PREMIUM",
+      "price": "14M",
+      "club_code": "CR"
+    },
+    {
+      "name": "Cheikhou Kouyaté",
+      "position": "Midfielder",
+      "number": 8,
+      "nationality": "Senegalese",
+      "playerPicture": "https://example.com/cheikhou-kouyate.png",
+      "cardType": "PREMIUM",
+      "price": "11M",
+      "club_code": "CR"
+    },
+    {
+      "name": "Nathaniel Clyne",
+      "position": "Defender",
+      "number": 17,
+      "nationality": "English",
+      "playerPicture": "https://example.com/nathaniel-clyne.png",
+      "cardType": "PREMIUM",
+      "price": "9M",
+      "club_code": "CR"
+    },
+    {
+      "name": "Jairo Riedewald",
+      "position": "Defender",
+      "number": 44,
+      "nationality": "Dutch",
+      "playerPicture": "https://example.com/jairo-riedewald.png",
+      "cardType": "PREMIUM",
+      "price": "8M",
+      "club_code": "CR"
+    },
+    {
+      "name": "Conor Gallagher",
+      "position": "Midfielder",
+      "number": 23,
+      "nationality": "English",
+      "playerPicture": "https://example.com/conor-gallagher.png",
+      "cardType": "PREMIUM",
+      "price": "10M",
+      "club_code": "CR"
+    },
+    {
+      "name": "Dominic Calvert-Lewin",
+      "position": "Forward",
+      "number": 9,
+      "nationality": "English",
+      "playerPicture": "https://example.com/dominic-calvert-lewin.png",
+      "cardType": "FREE",
+      "price": "15M",
+      "club_code": "EV"
+    },
+    {
+      "name": "Amadou Onana",
+      "position": "Midfielder",
+      "number": 27,
+      "nationality": "Belgian",
+      "playerPicture": "https://example.com/amadou-onana.png",
+      "cardType": "PREMIUM",
+      "price": "14M",
+      "club_code": "EV"
+    },
+    {
+      "name": "Idrissa Gueye",
+      "position": "Midfielder",
+      "number": 17,
+      "nationality": "Senegalese",
+      "playerPicture": "https://example.com/idrissa-gueye.png",
+      "cardType": "PREMIUM",
+      "price": "12M",
+      "club_code": "EV"
+    },
+    {
+      "name": "Vitalii Mykolenko",
+      "position": "Defender",
+      "number": 19,
+      "nationality": "Ukrainian",
+      "playerPicture": "https://example.com/vitalii-mykolenko.png",
+      "cardType": "PREMIUM",
+      "price": "10M",
+      "club_code": "EV"
+    },
+    {
+      "name": "James Tarkowski",
+      "position": "Defender",
+      "number": 2,
+      "nationality": "English",
+      "playerPicture": "https://example.com/james-tarkowski.png",
+      "cardType": "PREMIUM",
+      "price": "11M",
+      "club_code": "EV"
+    },
+    {
+      "name": "Jordan Pickford",
+      "position": "Goalkeeper",
+      "number": 1,
+      "nationality": "English",
+      "playerPicture": "https://example.com/jordan-pickford.png",
+      "cardType": "PREMIUM",
+      "price": "13M",
+      "club_code": "EV"
+    },
+    {
+      "name": "Alex Iwobi",
+      "position": "Midfielder",
+      "number": 17,
+      "nationality": "Nigerian",
+      "playerPicture": "https://example.com/alex-iwobi.png",
+      "cardType": "PREMIUM",
+      "price": "12M",
+      "club_code": "EV"
+    },
+    {
+      "name": "Dwight McNeil",
+      "position": "Midfielder",
+      "number": 7,
+      "nationality": "English",
+      "playerPicture": "https://example.com/dwight-mcneil.png",
+      "cardType": "PREMIUM",
+      "price": "9M",
+      "club_code": "EV"
+    },
+    {
+      "name": "Ben Godfrey",
+      "position": "Defender",
+      "number": 22,
+      "nationality": "English",
+      "playerPicture": "https://example.com/ben-godfrey.png",
+      "cardType": "PREMIUM",
+      "price": "8M",
+      "club_code": "EV"
+    },
+    {
+      "name": "Salomón Rondón",
+      "position": "Forward",
+      "number": 23,
+      "nationality": "Venezuelan",
+      "playerPicture": "https://example.com/salomon-rondon.png",
+      "cardType": "PREMIUM",
+      "price": "7M",
+      "club_code": "EV"
+    },
+    {
+      "name": "Aleksandar Mitrović",
+      "position": "Forward",
+      "number": 9,
+      "nationality": "Serbian",
+      "playerPicture": "https://example.com/aleksandar-mitrovic.png",
+      "cardType": "FREE",
+      "price": "10M",
+      "club_code": "FUL"
+    },
+    {
+      "name": "Andreas Pereira",
+      "position": "Midfielder",
+      "number": 15,
+      "nationality": "Brazilian",
+      "playerPicture": "https://example.com/andreas-pereira.png",
+      "cardType": "PREMIUM",
+      "price": "11M",
+      "club_code": "FUL"
+    },
+    {
+      "name": "Willian",
+      "position": "Forward",
+      "number": 20,
+      "nationality": "Brazilian",
+      "playerPicture": "https://example.com/willian.png",
+      "cardType": "PREMIUM",
+      "price": "13M",
+      "club_code": "FUL"
+    },
+    {
+      "name": "Pål Haarbäck",
+      "position": "Defender",
+      "number": 2,
+      "nationality": "Norwegian",
+      "playerPicture": "https://example.com/pal-haarback.png",
+      "cardType": "PREMIUM",
+      "price": "8M",
+      "club_code": "FUL"
+    },
+    {
+      "name": "Tim Ream",
+      "position": "Defender",
+      "number": 13,
+      "nationality": "American",
+      "playerPicture": "https://example.com/tim-ream.png",
+      "cardType": "PREMIUM",
+      "price": "9M",
+      "club_code": "FUL"
+    },
+    {
+      "name": "Bernd Leno",
+      "position": "Goalkeeper",
+      "number": 1,
+      "nationality": "German",
+      "playerPicture": "https://example.com/bernd-leno.png",
+      "cardType": "PREMIUM",
+      "price": "15M",
+      "club_code": "FUL"
+    },
+    {
+      "name": "Bobby De Cordova-Reid",
+      "position": "Midfielder",
+      "number": 23,
+      "nationality": "Jamaican",
+      "playerPicture": "https://example.com/bobby-de-cordova-reid.png",
+      "cardType": "PREMIUM",
+      "price": "10M",
+      "club_code": "FUL"
+    },
+    {
+      "name": "Antonee Robinson",
+      "position": "Defender",
+      "number": 5,
+      "nationality": "American",
+      "playerPicture": "https://example.com/antonee-robinson.png",
+      "cardType": "PREMIUM",
+      "price": "11M",
+      "club_code": "FUL"
+    },
+    {
+      "name": "Harrison Reed",
+      "position": "Midfielder",
+      "number": 22,
+      "nationality": "English",
+      "playerPicture": "https://example.com/harrison-reed.png",
+      "cardType": "PREMIUM",
+      "price": "12M",
+      "club_code": "FUL"
+    },
+    {
+      "name": "Nathaniel Chalobah",
+      "position": "Midfielder",
+      "number": 3,
+      "nationality": "English",
+      "playerPicture": "https://example.com/nathaniel-chalobah.png",
+      "cardType": "PREMIUM",
+      "price": "14M",
+      "club_code": "FUL"
+    },
+    {
+      "name": "Carlton Morris",
+      "position": "Forward",
+      "number": 9,
+      "nationality": "English",
+      "playerPicture": "https://example.com/carlton-morris.png",
+      "cardType": "FREE",
+      "price": "6M",
+      "club_code": "LUT"
+    },
+    {
+      "name": "Elijah Adebayo",
+      "position": "Forward",
+      "number": 10,
+      "nationality": "English",
+      "playerPicture": "https://example.com/elijah-adebayo.png",
+      "cardType": "PREMIUM",
+      "price": "7M",
+      "club_code": "LUT"
+    },
+    {
+      "name": "Allan Campbell",
+      "position": "Midfielder",
+      "number": 28,
+      "nationality": "Scottish",
+      "playerPicture": "https://example.com/allan-campbell.png",
+      "cardType": "PREMIUM",
+      "price": "9M",
+      "club_code": "LUT"
+    },
+    {
+      "name": "Joseph Lock",
+      "position": "Midfielder",
+      "number": 12,
+      "nationality": "English",
+      "playerPicture": "https://example.com/joseph-lock.png",
+      "cardType": "PREMIUM",
+      "price": "5M",
+      "club_code": "LUT"
+    },
+    {
+      "name": "Tom Lockyer",
+      "position": "Defender",
+      "number": 6,
+      "nationality": "Welsh",
+      "playerPicture": "https://example.com/tom-lockyer.png",
+      "cardType": "PREMIUM",
+      "price": "7M",
+      "club_code": "LUT"
+    },
+    {
+      "name": "James Bree",
+      "position": "Defender",
+      "number": 2,
+      "nationality": "English",
+      "playerPicture": "https://example.com/james-bree.png",
+      "cardType": "PREMIUM",
+      "price": "5M",
+      "club_code": "LUT"
+    },
+    {
+      "name": "Gabriel Osho",
+      "position": "Defender",
+      "number": 5,
+      "nationality": "English",
+      "playerPicture": "https://example.com/gabriel-osho.png",
+      "cardType": "PREMIUM",
+      "price": "7M",
+      "club_code": "LUT"
+    },
+    {
+      "name": "Matt Macey",
+      "position": "Goalkeeper",
+      "number": 1,
+      "nationality": "Scottish",
+      "playerPicture": "https://example.com/matt-macey.png",
+      "cardType": "PREMIUM",
+      "price": "6M",
+      "club_code": "LUT"
+    },
+    {
+      "name": "Dan Potts",
+      "position": "Defender",
+      "number": 23,
+      "nationality": "English",
+      "playerPicture": "https://example.com/dan-potts.png",
+      "cardType": "PREMIUM",
+      "price": "6M",
+      "club_code": "LUT"
+    },
+    {
+      "name": "Erling Haaland",
+      "position": "Forward",
+      "number": 9,
+      "nationality": "Norwegian",
+      "playerPicture": "https://example.com/erling-haaland.png",
+      "cardType": "FREE",
+      "price": "30M",
+      "club_code": "MCI"
+    },
+    {
+      "name": "Kevin De Bruyne",
+      "position": "Midfielder",
+      "number": 17,
+      "nationality": "Belgian",
+      "playerPicture": "https://example.com/kevin-de-bruyne.png",
+      "cardType": "PREMIUM",
+      "price": "45M",
+      "club_code": "MCI"
+    },
+    {
+      "name": "Rúben Dias",
+      "position": "Defender",
+      "number": 3,
+      "nationality": "Portuguese",
+      "playerPicture": "https://example.com/ruben-dias.png",
+      "cardType": "PREMIUM",
+      "price": "40M",
+      "club_code": "MCI"
+    },
+    {
+      "name": "Phil Foden",
+      "position": "Midfielder",
+      "number": 47,
+      "nationality": "English",
+      "playerPicture": "https://example.com/phil-foden.png",
+      "cardType": "PREMIUM",
+      "price": "30M",
+      "club_code": "MCI"
+    },
+    {
+      "name": "Rodri",
+      "position": "Midfielder",
+      "number": 16,
+      "nationality": "Spanish",
+      "playerPicture": "https://example.com/rodri.png",
+      "cardType": "PREMIUM",
+      "price": "35M",
+      "club_code": "MCI"
+    },
+    {
+      "name": "Bernardo Silva",
+      "position": "Midfielder",
+      "number": 20,
+      "nationality": "Portuguese",
+      "playerPicture": "https://example.com/bernardo-silva.png",
+      "cardType": "PREMIUM",
+      "price": "40M",
+      "club_code": "MCI"
+    },
+    {
+      "name": "João Cancelo",
+      "position": "Defender",
+      "number": 2,
+      "nationality": "Portuguese",
+      "playerPicture": "https://example.com/joao-cancelo.png",
+      "cardType": "PREMIUM",
+      "price": "35M",
+      "club_code": "MCI"
+    },
+    {
+      "name": "Riyad Mahrez",
+      "position": "Forward",
+      "number": 26,
+      "nationality": "Algerian",
+      "playerPicture": "https://example.com/riyad-mahrez.png",
+      "cardType": "PREMIUM",
+      "price": "33M",
+      "club_code": "MCI"
+    },
+    {
+      "name": "John Stones",
+      "position": "Defender",
+      "number": 5,
+      "nationality": "English",
+      "playerPicture": "https://example.com/john-stones.png",
+      "cardType": "PREMIUM",
+      "price": "38M",
+      "club_code": "MCI"
+    },
+    {
+      "name": "Ederson",
+      "position": "Goalkeeper",
+      "number": 31,
+      "nationality": "Brazilian",
+      "playerPicture": "https://example.com/ederson.png",
+      "cardType": "PREMIUM",
+      "price": "40M",
+      "club_code": "MCI"
+    },
+    {
+      "name": "Bruno Fernandes",
+      "position": "Midfielder",
+      "number": 8,
+      "nationality": "Portuguese",
+      "playerPicture": "https://example.com/bruno-fernandes.png",
+      "cardType": "FREE",
+      "price": "25M",
+      "club_code": "MUN"
+    },
+    {
+      "name": "Marcus Rashford",
+      "position": "Forward",
+      "number": 10,
+      "nationality": "English",
+      "playerPicture": "https://example.com/marcus-rashford.png",
+      "cardType": "PREMIUM",
+      "price": "32M",
+      "club_code": "MUN"
+    },
+    {
+      "name": "Casemiro",
+      "position": "Midfielder",
+      "number": 18,
+      "nationality": "Brazilian",
+      "playerPicture": "https://example.com/casemiro.png",
+      "cardType": "PREMIUM",
+      "price": "30M",
+      "club_code": "MUN"
+    },
+    {
+      "name": "Raphaël Varane",
+      "position": "Defender",
+      "number": 19,
+      "nationality": "French",
+      "playerPicture": "https://example.com/raphael-varane.png",
+      "cardType": "PREMIUM",
+      "price": "35M",
+      "club_code": "MUN"
+    },
+    {
+      "name": "Rasmus Højlund",
+      "position": "Forward",
+      "number": 11,
+      "nationality": "Danish",
+      "playerPicture": "https://example.com/rasmus-hojlund.png",
+      "cardType": "PREMIUM",
+      "price": "28M",
+      "club_code": "MUN"
+    },
+    {
+      "name": "Antony",
+      "position": "Forward",
+      "number": 21,
+      "nationality": "Brazilian",
+      "playerPicture": "https://example.com/antony.png",
+      "cardType": "PREMIUM",
+      "price": "27M",
+      "club_code": "MUN"
+    },
+    {
+      "name": "Luke Shaw",
+      "position": "Defender",
+      "number": 23,
+      "nationality": "English",
+      "playerPicture": "https://example.com/luke-shaw.png",
+      "cardType": "PREMIUM",
+      "price": "29M",
+      "club_code": "MUN"
+    },
+    {
+      "name": "Aaron Wan-Bissaka",
+      "position": "Defender",
+      "number": 29,
+      "nationality": "English",
+      "playerPicture": "https://example.com/aaron-wan-bissaka.png",
+      "cardType": "PREMIUM",
+      "price": "26M",
+      "club_code": "MUN"
+    },
+    {
+      "name": "David de Gea",
+      "position": "Goalkeeper",
+      "number": 1,
+      "nationality": "Spanish",
+      "playerPicture": "https://example.com/david-de-gea.png",
+      "cardType": "PREMIUM",
+      "price": "32M",
+      "club_code": "MUN"
+    },
+    {
+      "name": "Scott McTominay",
+      "position": "Midfielder",
+      "number": 39,
+      "nationality": "Scottish",
+      "playerPicture": "https://example.com/scott-mctominay.png",
+      "cardType": "PREMIUM",
+      "price": "22M",
+      "club_code": "MUN"
+    },
+    {
+      "name": "Callum Wilson",
+      "position": "Forward",
+      "number": 9,
+      "nationality": "English",
+      "playerPicture": "https://example.com/callum-wilson.png",
+      "cardType": "FREE",
+      "price": "20M",
+      "club_code": "NEW"
+    },
+    {
+      "name": "Bruno Guimarães",
+      "position": "Midfielder",
+      "number": 39,
+      "nationality": "Brazilian",
+      "playerPicture": "https://example.com/bruno-guimaraes.png",
+      "cardType": "PREMIUM",
+      "price": "25M",
+      "club_code": "NEW"
+    },
+    {
+      "name": "Kieran Trippier",
+      "position": "Defender",
+      "number": 15,
+      "nationality": "English",
+      "playerPicture": "https://example.com/kieran-trippier.png",
+      "cardType": "PREMIUM",
+      "price": "22M",
+      "club_code": "NEW"
+    },
+    {
+      "name": "Alexander Isak",
+      "position": "Forward",
+      "number": 14,
+      "nationality": "Swedish",
+      "playerPicture": "https://example.com/alexander-isak.png",
+      "cardType": "PREMIUM",
+      "price": "30M",
+      "club_code": "NEW"
+    },
+    {
+      "name": "Sandro Tonali",
+      "position": "Midfielder",
+      "number": 8,
+      "nationality": "Italian",
+      "playerPicture": "https://example.com/sandro-tonali.png",
+      "cardType": "PREMIUM",
+      "price": "27M",
+      "club_code": "NEW"
+    },
+    {
+      "name": "Dan Burn",
+      "position": "Defender",
+      "number": 33,
+      "nationality": "English",
+      "playerPicture": "https://example.com/dan-burn.png",
+      "cardType": "PREMIUM",
+      "price": "20M",
+      "club_code": "NEW"
+    },
+    {
+      "name": "Nick Pope",
+      "position": "Goalkeeper",
+      "number": 22,
+      "nationality": "English",
+      "playerPicture": "https://example.com/nick-pope.png",
+      "cardType": "PREMIUM",
+      "price": "28M",
+      "club_code": "NEW"
+    },
+    {
+      "name": "Anthony Gordon",
+      "position": "Forward",
+      "number": 20,
+      "nationality": "English",
+      "playerPicture": "https://example.com/anthony-gordon.png",
+      "cardType": "PREMIUM",
+      "price": "24M",
+      "club_code": "NEW"
+    },
+    {
+      "name": "Sean Longstaff",
+      "position": "Midfielder",
+      "number": 36,
+      "nationality": "English",
+      "playerPicture": "https://example.com/sean-longstaff.png",
+      "cardType": "PREMIUM",
+      "price": "20M",
+      "club_code": "NEW"
+    },
+    {
+      "name": "Fabian Schär",
+      "position": "Defender",
+      "number": 21,
+      "nationality": "Swiss",
+      "playerPicture": "https://example.com/fabian-schar.png",
+      "cardType": "PREMIUM",
+      "price": "25M",
+      "club_code": "NEW"
+    },
+    {
+      "name": "Taiwo Awoniyi",
+      "position": "Forward",
+      "number": 9,
+      "nationality": "Nigerian",
+      "playerPicture": "https://example.com/taiwo-awoniyi.png",
+      "cardType": "FREE",
+      "price": "10M",
+      "club_code": "NOT"
+    },
+    {
+      "name": "Morgan Gibbs-White",
+      "position": "Midfielder",
+      "number": 10,
+      "nationality": "English",
+      "playerPicture": "https://example.com/morgan-gibbs-white.png",
+      "cardType": "PREMIUM",
+      "price": "12M",
+      "club_code": "NOT"
+    },
+    {
+      "name": "Orel Mangala",
+      "position": "Midfielder",
+      "number": 28,
+      "nationality": "Belgian",
+      "playerPicture": "https://example.com/orel-mangala.png",
+      "cardType": "PREMIUM",
+      "price": "11M",
+      "club_code": "NOT"
+    },
+    {
+      "name": "Joe Worrall",
+      "position": "Defender",
+      "number": 4,
+      "nationality": "English",
+      "playerPicture": "https://example.com/joe-worrall.png",
+      "cardType": "PREMIUM",
+      "price": "9M",
+      "club_code": "NOT"
+    },
+    {
+      "name": "Renan Lodi",
+      "position": "Defender",
+      "number": 16,
+      "nationality": "Brazilian",
+      "playerPicture": "https://example.com/renan-lodi.png",
+      "cardType": "PREMIUM",
+      "price": "13M",
+      "club_code": "NOT"
+    },
+    {
+      "name": "Dean Henderson",
+      "position": "Goalkeeper",
+      "number": 1,
+      "nationality": "English",
+      "playerPicture": "https://example.com/dean-henderson.png",
+      "cardType": "PREMIUM",
+      "price": "15M",
+      "club_code": "NOT"
+    },
+    {
+      "name": "Ryan Yates",
+      "position": "Midfielder",
+      "number": 22,
+      "nationality": "English",
+      "playerPicture": "https://example.com/ryan-yates.png",
+      "cardType": "PREMIUM",
+      "price": "9M",
+      "club_code": "NOT"
+    },
+    {
+      "name": "Neco Williams",
+      "position": "Defender",
+      "number": 8,
+      "nationality": "Welsh",
+      "playerPicture": "https://example.com/neco-williams.png",
+      "cardType": "PREMIUM",
+      "price": "10M",
+      "club_code": "NOT"
+    },
+    {
+      "name": "Brice Samba",
+      "position": "Goalkeeper",
+      "number": 30,
+      "nationality": "French",
+      "playerPicture": "https://example.com/brice-samba.png",
+      "cardType": "PREMIUM",
+      "price": "14M",
+      "club_code": "NOT"
+    },
+    {
+      "name": "Chris Wood",
+      "position": "Forward",
+      "number": 20,
+      "nationality": "New Zealander",
+      "playerPicture": "https://example.com/chris-wood.png",
+      "cardType": "PREMIUM",
+      "price": "11M",
+      "club_code": "NOT"
+    },
+    {
+      "name": "Oli McBurnie",
+      "position": "Forward",
+      "number": 9,
+      "nationality": "Scottish",
+      "playerPicture": "https://example.com/oli-mcburnie.png",
+      "cardType": "FREE",
+      "price": "8M",
+      "club_code": "SHE"
+    },
+    {
+      "name": "Anel Ahmedhodžić",
+      "position": "Defender",
+      "number": 4,
+      "nationality": "Bosnian",
+      "playerPicture": "https://example.com/anel-ahmedhodzic.png",
+      "cardType": "PREMIUM",
+      "price": "9M",
+      "club_code": "SHE"
+    },
+    {
+      "name": "James McAtee",
+      "position": "Midfielder",
+      "number": 10,
+      "nationality": "English",
+      "playerPicture": "https://example.com/james-mcate.png",
+      "cardType": "PREMIUM",
+      "price": "11M",
+      "club_code": "SHE"
+    },
+    {
+      "name": "Tommy Doyle",
+      "position": "Midfielder",
+      "number": 20,
+      "nationality": "English",
+      "playerPicture": "https://example.com/tommy-doyle.png",
+      "cardType": "PREMIUM",
+      "price": "10M",
+      "club_code": "SHE"
+    },
+    {
+      "name": "Oli McBurnie",
+      "position": "Forward",
+      "number": 9,
+      "nationality": "Scottish",
+      "playerPicture": "https://example.com/oli-mcburnie.png",
+      "cardType": "PREMIUM",
+      "price": "8M",
+      "club_code": "SHE"
+    },
+    {
+      "name": "Max Lowe",
+      "position": "Defender",
+      "number": 3,
+      "nationality": "Scottish",
+      "playerPicture": "https://example.com/max-lowe.png",
+      "cardType": "PREMIUM",
+      "price": "7M",
+      "club_code": "SHE"
+    },
+    {
+      "name": "Oliver Norwood",
+      "position": "Midfielder",
+      "number": 16,
+      "nationality": "English",
+      "playerPicture": "https://example.com/oliver-norwood.png",
+      "cardType": "PREMIUM",
+      "price": "9M",
+      "club_code": "SHE"
+    },
+    {
+      "name": "Wes Foderingham",
+      "position": "Goalkeeper",
+      "number": 1,
+      "nationality": "English",
+      "playerPicture": "https://example.com/wes-foderingham.png",
+      "cardType": "PREMIUM",
+      "price": "10M",
+      "club_code": "SHE"
+    },
+    {
+      "name": "Cameron Archer",
+      "position": "Forward",
+      "number": 29,
+      "nationality": "English",
+      "playerPicture": "https://example.com/cameron-archer.png",
+      "cardType": "PREMIUM",
+      "price": "12M",
+      "club_code": "SHE"
+    },
+    {
+      "name": "Jack Robinson",
+      "position": "Defender",
+      "number": 5,
+      "nationality": "English",
+      "playerPicture": "https://example.com/jack-robinson.png",
+      "cardType": "PREMIUM",
+      "price": "6M",
+      "club_code": "SHE"
+    },
+    {
+      "name": "Harry Kane",
+      "position": "Forward",
+      "number": 10,
+      "nationality": "English",
+      "playerPicture": "https://example.com/harry-kane.png",
+      "cardType": "FREE",
+      "price": "50M",
+      "club_code": "TOT"
+    },
+    {
+      "name": "Son Heung-min",
+      "position": "Forward",
+      "number": 7,
+      "nationality": "South Korean",
+      "playerPicture": "https://example.com/son-heung-min.png",
+      "cardType": "PREMIUM",
+      "price": "45M",
+      "club_code": "TOT"
+    },
+    {
+      "name": "James Maddison",
+      "position": "Midfielder",
+      "number": 10,
+      "nationality": "English",
+      "playerPicture": "https://example.com/james-maddison.png",
+      "cardType": "PREMIUM",
+      "price": "38M",
+      "club_code": "TOT"
+    },
+    {
+      "name": "Rodrigo Bentancur",
+      "position": "Midfielder",
+      "number": 30,
+      "nationality": "Uruguayan",
+      "playerPicture": "https://example.com/rodrigo-bentancur.png",
+      "cardType": "PREMIUM",
+      "price": "32M",
+      "club_code": "TOT"
+    },
+    {
+      "name": "Christian Romero",
+      "position": "Defender",
+      "number": 4,
+      "nationality": "Argentinian",
+      "playerPicture": "https://example.com/christian-romero.png",
+      "cardType": "PREMIUM",
+      "price": "35M",
+      "club_code": "TOT"
+    },
+    {
+      "name": "Clement Lenglet",
+      "position": "Defender",
+      "number": 34,
+      "nationality": "French",
+      "playerPicture": "https://example.com/clement-lenglet.png",
+      "cardType": "PREMIUM",
+      "price": "30M",
+      "club_code": "TOT"
+    },
+    {
+      "name": "Ivan Perišić",
+      "position": "Midfielder",
+      "number": 14,
+      "nationality": "Croatian",
+      "playerPicture": "https://example.com/ivan-perisic.png",
+      "cardType": "PREMIUM",
+      "price": "28M",
+      "club_code": "TOT"
+    },
+    {
+      "name": "Destiny Udogie",
+      "position": "Defender",
+      "number": 33,
+      "nationality": "Italian",
+      "playerPicture": "https://example.com/destiny-udogie.png",
+      "cardType": "PREMIUM",
+      "price": "26M",
+      "club_code": "TOT"
+    },
+    {
+      "name": "Guglielmo Vicario",
+      "position": "Goalkeeper",
+      "number": 16,
+      "nationality": "Italian",
+      "playerPicture": "https://example.com/guglielmo-vicario.png",
+      "cardType": "PREMIUM",
+      "price": "22M",
+      "club_code": "TOT"
+    },
+    {
+      "name": "Pierre-Emile Højbjerg",
+      "position": "Midfielder",
+      "number": 5,
+      "nationality": "Danish",
+      "playerPicture": "https://example.com/pierre-emile-hojbjerg.png",
+      "cardType": "PREMIUM",
+      "price": "28M",
+      "club_code": "TOT"
+    },
+    {
+      "name": "Jared Bowen",
+      "position": "Forward",
+      "number": 20,
+      "nationality": "English",
+      "playerPicture": "https://example.com/jared-bowen.png",
+      "cardType": "FREE",
+      "price": "18M",
+      "club_code": "WHU"
+    },
+    {
+      "name": "Lucas Paquetá",
+      "position": "Midfielder",
+      "number": 11,
+      "nationality": "Brazilian",
+      "playerPicture": "https://example.com/lucas-paqueta.png",
+      "cardType": "PREMIUM",
+      "price": "25M",
+      "club_code": "WHU"
+    },
+    {
+      "name": "Declan Rice",
+      "position": "Midfielder",
+      "number": 41,
+      "nationality": "English",
+      "playerPicture": "https://example.com/declan-rice.png",
+      "cardType": "PREMIUM",
+      "price": "30M",
+      "club_code": "WHU"
+    },
+    {
+      "name": "Tomas Soucek",
+      "position": "Midfielder",
+      "number": 28,
+      "nationality": "Czech",
+      "playerPicture": "https://example.com/tomas-soucek.png",
+      "cardType": "PREMIUM",
+      "price": "22M",
+      "club_code": "WHU"
+    },
+    {
+      "name": "Kurt Zouma",
+      "position": "Defender",
+      "number": 4,
+      "nationality": "French",
+      "playerPicture": "https://example.com/kurt-zouma.png",
+      "cardType": "PREMIUM",
+      "price": "28M",
+      "club_code": "WHU"
+    },
+    {
+      "name": "Alphonse Areola",
+      "position": "Goalkeeper",
+      "number": 1,
+      "nationality": "French",
+      "playerPicture": "https://example.com/alphonse-areola.png",
+      "cardType": "PREMIUM",
+      "price": "20M",
+      "club_code": "WHU"
+    },
+    {
+      "name": "Emerson",
+      "position": "Defender",
+      "number": 33,
+      "nationality": "Brazilian",
+      "playerPicture": "https://example.com/emerson.png",
+      "cardType": "PREMIUM",
+      "price": "18M",
+      "club_code": "WHU"
+    },
+    {
+      "name": "Pablo Fornals",
+      "position": "Midfielder",
+      "number": 18,
+      "nationality": "Spanish",
+      "playerPicture": "https://example.com/pablo-fornals.png",
+      "cardType": "PREMIUM",
+      "price": "19M",
+      "club_code": "WHU"
+    },
+    {
+      "name": "Said Benrahma",
+      "position": "Midfielder",
+      "number": 22,
+      "nationality": "Algerian",
+      "playerPicture": "https://example.com/said-benrahma.png",
+      "cardType": "PREMIUM",
+      "price": "20M",
+      "club_code": "WHU"
+    },
+    {
+      "name": "Danny Ings",
+      "position": "Forward",
+      "number": 18,
+      "nationality": "English",
+      "playerPicture": "https://example.com/danny-ings.png",
+      "cardType": "PREMIUM",
+      "price": "26M",
+      "club_code": "WHU"
+    }
+  ]
+}
